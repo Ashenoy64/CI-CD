@@ -1,0 +1,12 @@
+
+
+.display{
+    visibility:visible;
+}
+
+@media (max-width:750px)
+{
+    .display{
+        visibility:hidden;
+    }
+}
