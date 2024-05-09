@@ -1,3 +1,3 @@
-# Learning Docker Repository
+# CI-CD
 
-This repository contains examples and projects created while learning Docker.
+This repository contains code used during cloud computing class.
